@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react'
-import Nav from './components/nav'
+import Nav from './components/Nav'
 import { Route, Routes, useLocation } from 'react-router-dom';
 import Home from './pages/Home'
 import CarDetails from './pages/CarDetails';

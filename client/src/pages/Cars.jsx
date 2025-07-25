@@ -3,7 +3,7 @@ import Title from '../components/Title'
 import { assets } from '../assets/assets'
 import CarCard from '../components/CarCard'
 import { useSearchParams } from 'react-router-dom'
-import { useAppContext } from '../context/appContext'
+import { useAppContext } from '../context/AppContext'
 import toast from 'react-hot-toast'
 import { motion } from 'motion/react';
 
