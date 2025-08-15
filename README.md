@@ -92,47 +92,7 @@ The project follows a **client-server architecture**:
 
 ---
 
-## Folder Structure
-```
 
-car-rental/
-├── backend/
-│   ├── config/
-│   │   └── db.js
-│   ├── controllers/
-│   │   ├── authController.js
-│   │   ├── carController.js
-│   │   ├── bookingController.js
-│   │   └── paymentController.js
-│   ├── models/
-│   │   ├── userModel.js
-│   │   ├── carModel.js
-│   │   └── bookingModel.js
-│   ├── routes/
-│   │   ├── authRoutes.js
-│   │   ├── carRoutes.js
-│   │   ├── bookingRoutes.js
-│   │   └── paymentRoutes.js
-│   ├── middleware/
-│   │   └── authMiddleware.js
-│   ├── server.js
-│   └── .env
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── redux/
-│   │   ├── App.js
-│   │   └── index.js
-│   └── package.json
-│
-└── README.md
-
-````
-
----
 
 ## Installation
 
